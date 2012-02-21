@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string-array name="trip_cases">
+    <!-- Singular,Dual,Plural -->
+    <item>поездка</item>
+    <item>поездки</item>
+    <item>поездок</item>
+  </string-array>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">Ticket info</string>
+  <string name="ticket_is_reading">Ticket reading...</string>
+  <string name="ticket_read_error">Unable to read the ticket</string>
+  <string name="ticket_disclaimer">Bring a ticket</string>
+  <string name="ticket_num">Ticket number</string>
+  <string name="passes_left">Trips left</string>
+  <string name="issued">Issued</string>
+  <string name="best_in_days">Valid in days</string>
+  <string name="station_last_enter">Last gate entered</string>
+  <string name="ticket_hash">Secret hash</string>
+  <string name="ticket_blank_best_before">Ticket blank is valid before</string>
+  <string name="unknown_layout">Unknown ticket layout</string>
+  <string name="otp">OTP</string>
+  <string name="baggage_and_pass">baggage + pass</string>
+  <string name="baggage_only">baggage only</string>
+  <string name="universal_ultralight_70">universal ultralight (70 trips)</string>
+  <string name="vesb">temporary universal social ticket</string>
+  <string name="unknown_ticket_category">unknown ticket category</string>
+  <string name="ticket_main_type_mosmetro">Moscow metro ticket</string>
+  <string name="ticket_main_type_mosground">Moscow ground transit ticket</string>
+  <string name="ticket_main_type_mosuniversal">Universal social ticket of Moscow and Moscow state</string>
+  <string name="ticket_main_type_mosmetrolight">Light metro ticket</string>
+  <string name="ticket_main_type_unknown">An unknown ticket</string>
+</resources>

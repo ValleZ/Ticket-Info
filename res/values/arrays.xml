@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string-array name="trip_cases">
+    <!-- Singular,Dual,Plural -->
+    <item>trip</item>
+    <item>trips</item>
+    <item>trips</item>
+  </string-array>
+</resources>

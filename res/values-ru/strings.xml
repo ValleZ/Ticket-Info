@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Просмотр билета</string>
+  <string name="ticket_is_reading">Чтение билета...</string>
+  <string name="ticket_read_error">Не удалось прочитать билет</string>
+  <string name="ticket_disclaimer">Поднесите билет к телефону</string>
+  <string name="ticket_num">Номер билета</string>
+  <string name="passes_left">Осталось поездок</string>
+  <string name="issued">Выдан</string>
+  <string name="best_in_days">Годен, дней</string>
+  <string name="station_last_enter">Последний вход через турникет</string>
+  <string name="ticket_hash">Секретный хеш</string>
+  <string name="ticket_blank_best_before">Нужно продать бланк билета до</string>
+  <string name="unknown_layout">Неизвестная разметка билета</string>
+  <string name="otp">OTP</string>
+  <string name="baggage_and_pass">багаж + проход</string>
+  <string name="baggage_only">только багаж</string>
+  <string name="universal_ultralight_70">единый ультралайт (70 поездок)</string>
+  <string name="vesb">временный единый социальный билет</string>
+  <string name="unknown_ticket_category">неизвестная категория билета</string>
+  <string name="ticket_main_type_mosmetro">Билет московского метро</string>
+  <string name="ticket_main_type_mosground">Билет наземного транспорта москвы</string>
+  <string name="ticket_main_type_mosuniversal">Единый социальный билет Москвы и МО</string>
+  <string name="ticket_main_type_mosmetrolight">Билет легкого метро</string>
+  <string name="ticket_main_type_unknown">Билет неизвестного типа</string>
+</resources>
