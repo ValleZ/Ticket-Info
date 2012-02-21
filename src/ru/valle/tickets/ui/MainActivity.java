@@ -145,7 +145,7 @@ public final class MainActivity extends Activity {
     private String getReadableDate(int days) {
         Calendar c = Calendar.getInstance();
         c.clear();
-        c.set(1992, 1, 1);
+        c.set(1992, 0, 1);
         c.add(Calendar.DATE, days);
         return df.format(c.getTime());
     }
