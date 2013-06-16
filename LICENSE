@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
 The MIT License (MIT)
 
  Copyright (c) 2013 Valentin Konovalov
@@ -21,11 +19,3 @@ The MIT License (MIT)
  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  THE SOFTWARE.
- -->
-<TextView xmlns:android="http://schemas.android.com/apk/res/android"
-		android:layout_height="fill_parent"
-		android:layout_width="fill_parent"
-		android:fillViewport="true"
-		android:textSize="14dip"
-		android:id="@+id/body" />
-
